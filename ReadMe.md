@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- LBR
 - Liberia
 - Libéria
 - ليبريا
