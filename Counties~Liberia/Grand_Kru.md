@@ -40,11 +40,18 @@ markerFolder: ./Grand_Kru/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Liberia/Counties/Grand_Kru|Grand_Kru]] 
-- [[../../../../../../_public/geo/Continent/Africa/Liberia/Counties/Grand_Kru.public|Grand_Kru.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Liberia/Counties/Grand_Kru.internal|Grand_Kru.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Liberia/Counties/Grand_Kru.protect|Grand_Kru.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Liberia/Counties/Grand_Kru.private|Grand_Kru.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Liberia/Counties/Grand_Kru.personal|Grand_Kru.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Liberia/Counties/Grand_Kru.secret|Grand_Kru.secret]] 
+
+### #is_/same_as :: [Grand_Kru](/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Kru.md) 
+
+### #is_/same_as :: [Grand_Kru.public](/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Kru.public.md) 
+
+### #is_/same_as :: [Grand_Kru.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Kru.internal.md) 
+
+### #is_/same_as :: [Grand_Kru.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Kru.protect.md) 
+
+### #is_/same_as :: [Grand_Kru.private](/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Kru.private.md) 
+
+### #is_/same_as :: [Grand_Kru.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Kru.personal.md) 
+
+### #is_/same_as :: [Grand_Kru.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Kru.secret.md)
 

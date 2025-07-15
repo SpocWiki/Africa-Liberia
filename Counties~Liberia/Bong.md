@@ -40,11 +40,18 @@ markerFolder: ./Bong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Liberia/Counties/Bong|Bong]] 
-- [[../../../../../../_public/geo/Continent/Africa/Liberia/Counties/Bong.public|Bong.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Liberia/Counties/Bong.internal|Bong.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Liberia/Counties/Bong.protect|Bong.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Liberia/Counties/Bong.private|Bong.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Liberia/Counties/Bong.personal|Bong.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Liberia/Counties/Bong.secret|Bong.secret]] 
+
+### #is_/same_as :: [Bong](/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Bong.md) 
+
+### #is_/same_as :: [Bong.public](/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Bong.public.md) 
+
+### #is_/same_as :: [Bong.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Bong.internal.md) 
+
+### #is_/same_as :: [Bong.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Bong.protect.md) 
+
+### #is_/same_as :: [Bong.private](/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Bong.private.md) 
+
+### #is_/same_as :: [Bong.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Bong.personal.md) 
+
+### #is_/same_as :: [Bong.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Bong.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Lofa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Liberia/Counties/Lofa|Lofa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Liberia/Counties/Lofa.public|Lofa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Liberia/Counties/Lofa.internal|Lofa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Liberia/Counties/Lofa.protect|Lofa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Liberia/Counties/Lofa.private|Lofa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Liberia/Counties/Lofa.personal|Lofa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Liberia/Counties/Lofa.secret|Lofa.secret]] 
+
+### #is_/same_as :: [Lofa](/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Lofa.md) 
+
+### #is_/same_as :: [Lofa.public](/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Lofa.public.md) 
+
+### #is_/same_as :: [Lofa.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Lofa.internal.md) 
+
+### #is_/same_as :: [Lofa.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Lofa.protect.md) 
+
+### #is_/same_as :: [Lofa.private](/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Lofa.private.md) 
+
+### #is_/same_as :: [Lofa.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Lofa.personal.md) 
+
+### #is_/same_as :: [Lofa.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Lofa.secret.md)
 

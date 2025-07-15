@@ -40,11 +40,18 @@ markerFolder: ./Grand_Cape_Mount/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount|Grand_Cape_Mount]] 
-- [[../../../../../../_public/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.public|Grand_Cape_Mount.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.internal|Grand_Cape_Mount.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.protect|Grand_Cape_Mount.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.private|Grand_Cape_Mount.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.personal|Grand_Cape_Mount.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Liberia/Counties/Grand_Cape_Mount.secret|Grand_Cape_Mount.secret]] 
+
+### #is_/same_as :: [Grand_Cape_Mount](/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.md) 
+
+### #is_/same_as :: [Grand_Cape_Mount.public](/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.public.md) 
+
+### #is_/same_as :: [Grand_Cape_Mount.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.internal.md) 
+
+### #is_/same_as :: [Grand_Cape_Mount.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.protect.md) 
+
+### #is_/same_as :: [Grand_Cape_Mount.private](/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.private.md) 
+
+### #is_/same_as :: [Grand_Cape_Mount.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.personal.md) 
+
+### #is_/same_as :: [Grand_Cape_Mount.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [6.316667,-10.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Liberia/City/Monrovia|Monrovia]] 
-- [[../../../../../../_public/geo/Continent/Africa/Liberia/City/Monrovia.public|Monrovia.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Liberia/City/Monrovia.internal|Monrovia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Liberia/City/Monrovia.protect|Monrovia.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Liberia/City/Monrovia.private|Monrovia.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Liberia/City/Monrovia.personal|Monrovia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Liberia/City/Monrovia.secret|Monrovia.secret]] 
+
+### #is_/same_as :: [Monrovia](/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/City/Monrovia.md) 
+
+### #is_/same_as :: [Monrovia.public](/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/City/Monrovia.public.md) 
+
+### #is_/same_as :: [Monrovia.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/City/Monrovia.internal.md) 
+
+### #is_/same_as :: [Monrovia.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/City/Monrovia.protect.md) 
+
+### #is_/same_as :: [Monrovia.private](/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/City/Monrovia.private.md) 
+
+### #is_/same_as :: [Monrovia.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/City/Monrovia.personal.md) 
+
+### #is_/same_as :: [Monrovia.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/City/Monrovia.secret.md)
+

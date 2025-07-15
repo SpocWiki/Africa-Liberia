@@ -40,11 +40,18 @@ markerFolder: ./Maryland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Liberia/Counties/Maryland|Maryland]] 
-- [[../../../../../../_public/geo/Continent/Africa/Liberia/Counties/Maryland.public|Maryland.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Liberia/Counties/Maryland.internal|Maryland.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Liberia/Counties/Maryland.protect|Maryland.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Liberia/Counties/Maryland.private|Maryland.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Liberia/Counties/Maryland.personal|Maryland.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Liberia/Counties/Maryland.secret|Maryland.secret]] 
+
+### #is_/same_as :: [Maryland](/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Maryland.md) 
+
+### #is_/same_as :: [Maryland.public](/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Maryland.public.md) 
+
+### #is_/same_as :: [Maryland.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Maryland.internal.md) 
+
+### #is_/same_as :: [Maryland.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Maryland.protect.md) 
+
+### #is_/same_as :: [Maryland.private](/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Maryland.private.md) 
+
+### #is_/same_as :: [Maryland.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Maryland.personal.md) 
+
+### #is_/same_as :: [Maryland.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Maryland.secret.md)
 

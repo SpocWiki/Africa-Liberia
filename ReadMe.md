@@ -130,10 +130,4 @@ Capital :: [[Monrovia]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Liberia|Liberia]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~West/Liberia.internal|Liberia.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~West/Liberia.protect|Liberia.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~West/Liberia.private|Liberia.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~West/Liberia.personal|Liberia.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~West/Liberia.secret|Liberia.secret]] 
+

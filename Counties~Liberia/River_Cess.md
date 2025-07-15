@@ -40,11 +40,18 @@ markerFolder: ./River_Cess/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Liberia/Counties/River_Cess|River_Cess]] 
-- [[../../../../../../_public/geo/Continent/Africa/Liberia/Counties/River_Cess.public|River_Cess.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Liberia/Counties/River_Cess.internal|River_Cess.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Liberia/Counties/River_Cess.protect|River_Cess.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Liberia/Counties/River_Cess.private|River_Cess.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Liberia/Counties/River_Cess.personal|River_Cess.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Liberia/Counties/River_Cess.secret|River_Cess.secret]] 
+
+### #is_/same_as :: [River_Cess](/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Cess.md) 
+
+### #is_/same_as :: [River_Cess.public](/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Cess.public.md) 
+
+### #is_/same_as :: [River_Cess.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Cess.internal.md) 
+
+### #is_/same_as :: [River_Cess.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Cess.protect.md) 
+
+### #is_/same_as :: [River_Cess.private](/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Cess.private.md) 
+
+### #is_/same_as :: [River_Cess.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Cess.personal.md) 
+
+### #is_/same_as :: [River_Cess.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Cess.secret.md)
 

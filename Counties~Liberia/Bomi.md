@@ -40,11 +40,18 @@ markerFolder: ./Bomi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Liberia/Counties/Bomi|Bomi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Liberia/Counties/Bomi.public|Bomi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Liberia/Counties/Bomi.internal|Bomi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Liberia/Counties/Bomi.protect|Bomi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Liberia/Counties/Bomi.private|Bomi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Liberia/Counties/Bomi.personal|Bomi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Liberia/Counties/Bomi.secret|Bomi.secret]] 
+
+### #is_/same_as :: [Bomi](/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Bomi.md) 
+
+### #is_/same_as :: [Bomi.public](/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Bomi.public.md) 
+
+### #is_/same_as :: [Bomi.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Bomi.internal.md) 
+
+### #is_/same_as :: [Bomi.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Bomi.protect.md) 
+
+### #is_/same_as :: [Bomi.private](/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Bomi.private.md) 
+
+### #is_/same_as :: [Bomi.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Bomi.personal.md) 
+
+### #is_/same_as :: [Bomi.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Bomi.secret.md)
 
