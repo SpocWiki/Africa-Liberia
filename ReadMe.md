@@ -1,35 +1,36 @@
 ---
 location:
-- 6.31667
-- -10.8
+  - 6.31667
+  - -10.8
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26950
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Liberia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Liberia
-- Libéria
-- ليبريا
-- 利比里亚
-- Либерия
-- the Republic of Liberia
-- la República de Liberia
+  - Liberia
+  - Libéria
+  - ليبريا
+  - 利比里亚
+  - Либерия
+  - the Republic of Liberia
+  - la República de Liberia
 Languages:
-- en-LR
+  - en-LR
 ---
 
 
