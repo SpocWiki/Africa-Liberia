@@ -40,17 +40,17 @@ markerFolder: ./Gbapolu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gbapolu](/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Gbapolu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Gbapolu|Gbapolu]] 
 
-### #is_/same_as :: [Gbapolu.public](/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Gbapolu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Gbapolu.public|Gbapolu.public]] 
 
-### #is_/same_as :: [Gbapolu.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Gbapolu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Gbapolu.internal|Gbapolu.internal]] 
 
-### #is_/same_as :: [Gbapolu.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Gbapolu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Gbapolu.protect|Gbapolu.protect]] 
 
-### #is_/same_as :: [Gbapolu.private](/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Gbapolu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Gbapolu.private|Gbapolu.private]] 
 
-### #is_/same_as :: [Gbapolu.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Gbapolu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Gbapolu.personal|Gbapolu.personal]] 
 
-### #is_/same_as :: [Gbapolu.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Gbapolu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Gbapolu.secret|Gbapolu.secret]] 
 

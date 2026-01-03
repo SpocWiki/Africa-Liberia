@@ -40,17 +40,17 @@ markerFolder: ./Grand_Bassa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grand_Bassa](/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Bassa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Bassa|Grand_Bassa]] 
 
-### #is_/same_as :: [Grand_Bassa.public](/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Bassa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Bassa.public|Grand_Bassa.public]] 
 
-### #is_/same_as :: [Grand_Bassa.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Bassa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Bassa.internal|Grand_Bassa.internal]] 
 
-### #is_/same_as :: [Grand_Bassa.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Bassa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Bassa.protect|Grand_Bassa.protect]] 
 
-### #is_/same_as :: [Grand_Bassa.private](/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Bassa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Bassa.private|Grand_Bassa.private]] 
 
-### #is_/same_as :: [Grand_Bassa.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Bassa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Bassa.personal|Grand_Bassa.personal]] 
 
-### #is_/same_as :: [Grand_Bassa.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Bassa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Bassa.secret|Grand_Bassa.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Margibi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Margibi](/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Margibi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Margibi|Margibi]] 
 
-### #is_/same_as :: [Margibi.public](/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Margibi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Margibi.public|Margibi.public]] 
 
-### #is_/same_as :: [Margibi.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Margibi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Margibi.internal|Margibi.internal]] 
 
-### #is_/same_as :: [Margibi.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Margibi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Margibi.protect|Margibi.protect]] 
 
-### #is_/same_as :: [Margibi.private](/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Margibi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Margibi.private|Margibi.private]] 
 
-### #is_/same_as :: [Margibi.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Margibi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Margibi.personal|Margibi.personal]] 
 
-### #is_/same_as :: [Margibi.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Margibi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Margibi.secret|Margibi.secret]] 
 

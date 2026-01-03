@@ -40,17 +40,17 @@ markerFolder: ./Grand_Gedeh/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grand_Gedeh](/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Gedeh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Gedeh|Grand_Gedeh]] 
 
-### #is_/same_as :: [Grand_Gedeh.public](/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Gedeh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Gedeh.public|Grand_Gedeh.public]] 
 
-### #is_/same_as :: [Grand_Gedeh.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Gedeh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Gedeh.internal|Grand_Gedeh.internal]] 
 
-### #is_/same_as :: [Grand_Gedeh.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Gedeh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Gedeh.protect|Grand_Gedeh.protect]] 
 
-### #is_/same_as :: [Grand_Gedeh.private](/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Gedeh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Gedeh.private|Grand_Gedeh.private]] 
 
-### #is_/same_as :: [Grand_Gedeh.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Gedeh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Gedeh.personal|Grand_Gedeh.personal]] 
 
-### #is_/same_as :: [Grand_Gedeh.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Gedeh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Gedeh.secret|Grand_Gedeh.secret]] 
 

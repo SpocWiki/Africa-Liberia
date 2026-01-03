@@ -40,17 +40,17 @@ markerFolder: ./Grand_Cape_Mount/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grand_Cape_Mount](/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount|Grand_Cape_Mount]] 
 
-### #is_/same_as :: [Grand_Cape_Mount.public](/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.public|Grand_Cape_Mount.public]] 
 
-### #is_/same_as :: [Grand_Cape_Mount.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.internal|Grand_Cape_Mount.internal]] 
 
-### #is_/same_as :: [Grand_Cape_Mount.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.protect|Grand_Cape_Mount.protect]] 
 
-### #is_/same_as :: [Grand_Cape_Mount.private](/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.private|Grand_Cape_Mount.private]] 
 
-### #is_/same_as :: [Grand_Cape_Mount.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.personal|Grand_Cape_Mount.personal]] 
 
-### #is_/same_as :: [Grand_Cape_Mount.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Grand_Cape_Mount.secret|Grand_Cape_Mount.secret]] 
 

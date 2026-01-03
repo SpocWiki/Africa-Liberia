@@ -40,17 +40,17 @@ markerFolder: ./Nimba/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nimba](/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Nimba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Nimba|Nimba]] 
 
-### #is_/same_as :: [Nimba.public](/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Nimba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Nimba.public|Nimba.public]] 
 
-### #is_/same_as :: [Nimba.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Nimba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Nimba.internal|Nimba.internal]] 
 
-### #is_/same_as :: [Nimba.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Nimba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Nimba.protect|Nimba.protect]] 
 
-### #is_/same_as :: [Nimba.private](/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Nimba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Nimba.private|Nimba.private]] 
 
-### #is_/same_as :: [Nimba.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Nimba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Nimba.personal|Nimba.personal]] 
 
-### #is_/same_as :: [Nimba.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Nimba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Nimba.secret|Nimba.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./River_Gee/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [River_Gee](/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Gee.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Gee|River_Gee]] 
 
-### #is_/same_as :: [River_Gee.public](/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Gee.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Gee.public|River_Gee.public]] 
 
-### #is_/same_as :: [River_Gee.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Gee.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Gee.internal|River_Gee.internal]] 
 
-### #is_/same_as :: [River_Gee.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Gee.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Gee.protect|River_Gee.protect]] 
 
-### #is_/same_as :: [River_Gee.private](/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Gee.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Gee.private|River_Gee.private]] 
 
-### #is_/same_as :: [River_Gee.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Gee.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Gee.personal|River_Gee.personal]] 
 
-### #is_/same_as :: [River_Gee.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Gee.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/River_Gee.secret|River_Gee.secret]] 
 

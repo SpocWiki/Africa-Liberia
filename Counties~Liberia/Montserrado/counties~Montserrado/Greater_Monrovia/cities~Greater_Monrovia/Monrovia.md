@@ -121,19 +121,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Monrovia)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monrovia](/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/City/Monrovia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/counties~Montserrado/Greater_Monrovia/cities~Greater_Monrovia/Monrovia|Monrovia]] 
 
-### #is_/same_as :: [Monrovia.public](/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/City/Monrovia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/counties~Montserrado/Greater_Monrovia/cities~Greater_Monrovia/Monrovia.public|Monrovia.public]] 
 
-### #is_/same_as :: [Monrovia.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/City/Monrovia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/counties~Montserrado/Greater_Monrovia/cities~Greater_Monrovia/Monrovia.internal|Monrovia.internal]] 
 
-### #is_/same_as :: [Monrovia.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/City/Monrovia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/counties~Montserrado/Greater_Monrovia/cities~Greater_Monrovia/Monrovia.protect|Monrovia.protect]] 
 
-### #is_/same_as :: [Monrovia.private](/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/City/Monrovia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/counties~Montserrado/Greater_Monrovia/cities~Greater_Monrovia/Monrovia.private|Monrovia.private]] 
 
-### #is_/same_as :: [Monrovia.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/City/Monrovia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/counties~Montserrado/Greater_Monrovia/cities~Greater_Monrovia/Monrovia.personal|Monrovia.personal]] 
 
-### #is_/same_as :: [Monrovia.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/City/Monrovia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Liberia/Counties~Liberia/Montserrado/counties~Montserrado/Greater_Monrovia/cities~Greater_Monrovia/Monrovia.secret|Monrovia.secret]] 
 
