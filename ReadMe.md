@@ -116,7 +116,7 @@ markerFolder: .//
 [Area-Land::96750] 
 Continent :: [[Africa]]  
 [VehicleCode::LB] 
-Capital :: [[Counties~Liberia/Montserrado/counties~Montserrado/Greater_Monrovia/cities~Greater_Monrovia/Monrovia]]  
+Capital :: [[Counties~Liberia/Montserrado/counties~Montserrado/Greater_Monrovia/cities~Greater_Monrovia/Monrovia|Monrovia]]  
 
 ![[Coat_of_arms_of_Liberia.svg|350]] 
 
