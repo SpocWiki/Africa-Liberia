@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Gbapolu/
 markerFolder: ./Gbapolu/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

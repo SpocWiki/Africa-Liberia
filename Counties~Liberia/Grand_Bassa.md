@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Grand_Bassa/
 markerFolder: ./Grand_Bassa/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

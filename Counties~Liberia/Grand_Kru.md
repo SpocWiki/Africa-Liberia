@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Grand_Kru/
 markerFolder: ./Grand_Kru/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

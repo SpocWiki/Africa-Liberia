@@ -119,7 +119,7 @@ maxZoom: 18
 > It was founded in April 1822 by members of the American Colonization Society (ACS), 
 > an organization which aimed for the return of free people of color in the United States to Africa.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Monrovia)
+> [Wikipedia](https://en.wikipedia.org/wiki/Monrovia) 
 
 
 ## Confidential Links & Embeds: 

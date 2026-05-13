@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Grand_Gedeh/
 markerFolder: ./Grand_Gedeh/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

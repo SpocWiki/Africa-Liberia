@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Grand_Cape_Mount/
 markerFolder: ./Grand_Cape_Mount/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
